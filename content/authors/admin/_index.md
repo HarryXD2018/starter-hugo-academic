@@ -26,9 +26,9 @@ social:
     link: uploads/resume.pdf
 organizations:
   - name: State Key Laboratory of Virtual Reality and Systems, Beihang University
-    url: https://www.buaa.edu.cn/
+    url: https://vrlab.buaa.edu.cn/
   - name: School of Computer Science and Technology, Xidian University
-    url: cs.xidian.edu.cn
+    url: https://cs.xidian.edu.cn/
 education:
   courses:
     - course: PhD in Computer Science
@@ -44,7 +44,7 @@ email: chenhj2000@stu.xidian.edu.cn
 superuser: true
 highlight_name: true
 ---
-Hejia Chen (陈禾嘉) is currently a senior student at School of Computer Science and Technology, Xidian University. He will be a PhD student with State Key Laboratory of Virtual Reality and Systems, Beihang University in 2022, supervised by Prof. Shuai Li.
+Hejia Chen (陈禾嘉) is currently a PhD student with State Key Laboratory of Virtual Reality and Systems, Beihang University, supervised by Prof. Shuai Li. He received his BSc degree from School of Computer Science and Technology, Xidian University in 2022.
 
 > *Thrive for the best, prepare for the worst.* 
 >
